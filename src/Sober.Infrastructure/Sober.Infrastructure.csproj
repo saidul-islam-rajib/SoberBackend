@@ -24,4 +24,8 @@
     <ProjectReference Include="..\Sober.Application\Sober.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Persistence\EfConfiguration\" />
+  </ItemGroup>
+
 </Project>

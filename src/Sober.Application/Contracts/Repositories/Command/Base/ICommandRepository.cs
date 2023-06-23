@@ -1,4 +1,4 @@
-﻿namespace Configuration.Application.Contracts.Repositories.Command.Base
+﻿namespace Sober.Application.Contracts.Repositories.Command.Base
 {
     public interface ICommandRepository<TEntity> where TEntity : class
     {
